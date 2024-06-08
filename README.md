@@ -13,9 +13,9 @@ Uses Cheapshark API for pricing information.
 
 ### Commands
 - /fgregister 
-    - Register your server to receive free game alerts.
+    - Register current channel to receive free game alerts.
 - /fgunregister
-    - Unregister your server from free game alerts.
+    - Unregister your current channel from free game alerts.
 - /freegames
     - Retrieve current free games.
 
