@@ -6,7 +6,7 @@ Brought to you by https://fine.moe, Cheapbot is a Discord bot designed to notify
 Uses Cheapshark API for pricing information.
 
 ## Run bot
-[Run on discord](https://discord.com/oauth2/authorize?client_id=1246213960047263797&permissions=51200&integration_type=0&scope=bot+applications.commands)
+[Click here to invite cheapbot to your server](https://discord.com/oauth2/authorize?client_id=1246213960047263797&permissions=51200&integration_type=0&scope=bot+applications.commands)
 
 ### Example notification
 <img src="./img/example/example.png" />
