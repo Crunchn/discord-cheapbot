@@ -1,5 +1,3 @@
-const { Client, GatewayIntentBits, SlashCommandBuilder, EmbedBuilder, AttachmentBuilder, strikethrough } = require('discord.js');
-
 const { fgURL } = require('../config.json');
 const fs = require('node:fs');
 const http = require('node:http')
